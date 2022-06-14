@@ -1,0 +1,888 @@
+# Created at 2022-06-13T07:37:40.500
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+
+# Created at 2022-06-13T07:37:41.200
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.206
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.208
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.210
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.211
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.213
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.214
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.215
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.232
+Unexpected IOException with stream: Jun 13, 2022 7:37:40 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.233
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.244
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.248
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.249
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.251
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.260
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.262
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.264
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.267
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.272
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.279
+Unexpected IOException with stream: Jun 13, 2022 7:37:40 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 102
+
+
+# Created at 2022-06-13T07:37:41.284
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.289
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.296
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.299
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.311
+Unexpected IOException with stream: Jun 13, 2022 7:37:40 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+
+
+# Created at 2022-06-13T07:37:41.327
+Unexpected IOException with stream: Jun 13, 2022 7:37:40 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 102
+
+
+# Created at 2022-06-13T07:37:41.329
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.330
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.331
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.340
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.341
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.344
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.347
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.348
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.350
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.351
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.363
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.372
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.380
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.382
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.383
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.384
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.390
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.392
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.394
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.395
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.398
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.400
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.403
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.411
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.414
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.415
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.416
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.418
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.432
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.433
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.437
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.438
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.439
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.440
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.442
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.444
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.456
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.458
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.461
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.466
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.467
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.565
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.566
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:41.574
+Unexpected IOException with stream: Jun 13, 2022 7:37:41 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.062
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 102
+
+
+# Created at 2022-06-13T07:37:42.064
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.065
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.065
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.067
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.081
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.082
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.083
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.087
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.089
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.089
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.091
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.092
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.094
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.095
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.096
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.097
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.098
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.099
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.100
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.100
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.577
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+
+
+# Created at 2022-06-13T07:37:42.583
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.587
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.589
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.590
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.591
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.593
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.594
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.595
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.735
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 102
+
+
+# Created at 2022-06-13T07:37:42.738
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.740
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.741
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.742
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.744
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.745
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.747
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.748
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.749
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.751
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.754
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.757
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.762
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.763
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.764
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.765
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.766
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "chrome" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.767
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "javascriptEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.770
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "networkConnectionEnabled" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:42.772
+Unexpected IOException with stream: Jun 13, 2022 7:37:42 AM org.openqa.selenium.W3CCapabilityKeysValidator validateCapability
+WARNING: Support for Legacy Capabilities is deprecated; You are sending "platform" which is an invalid capability. Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+
+
+# Created at 2022-06-13T07:37:54.762
+Unexpected IOException: 8,1,Factory.ParallelTests,launchBrowser(Factory.ParallelTests),null,unknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [9d686474c98e0e835350074adde5b346\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63956}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63956/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 9d686474c98e0e835350074adde5b346,null,unknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [9d686474c98e0e835350074adde5b346\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63956}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63956/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 9d686474c98e0e835350074adde5b346,ParallelTests.launchBrowser:19 \00BB WebDriver unknown error: cannot determine loa...,org.openqa.selenium.WebDriverException: \000Aunknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [9d686474c98e0e835350074adde5b346\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63956}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63956/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 9d686474c98e0e835350074adde5b346\000A\0009at Factory.ParallelTests.launchBrowser(ParallelTests.java:19)\000A
+
+
+# Created at 2022-06-13T07:37:54.764
+Unexpected IOException: 9,1,Factory.ParallelTests,first(Factory.ParallelTests),null,unknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [9d686474c98e0e835350074adde5b346\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63956}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63956/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 9d686474c98e0e835350074adde5b346,null
+
+
+# Created at 2022-06-13T07:37:54.768
+Unexpected IOException: 9,1,Factory.ParallelTests,quit(Factory.ParallelTests),null,null,null
+
+
+# Created at 2022-06-13T07:37:59.081
+Unexpected IOException with stream: [
+
+# Created at 2022-06-13T07:37:59.082
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-13T07:37:59.083
+Unexpected IOException with stream: 6
+
+# Created at 2022-06-13T07:37:59.084
+Unexpected IOException with stream: 5
+
+# Created at 2022-06-13T07:37:59.084
+Unexpected IOException with stream: 5
+
+# Created at 2022-06-13T07:37:59.088
+Unexpected IOException with stream: 0
+
+# Created at 2022-06-13T07:37:59.091
+Unexpected IOException with stream: 8
+
+# Created at 2022-06-13T07:37:59.094
+Unexpected IOException with stream: 6
+
+# Created at 2022-06-13T07:37:59.097
+Unexpected IOException with stream: 0
+
+# Created at 2022-06-13T07:37:59.097
+Unexpected IOException with stream: 7
+
+# Created at 2022-06-13T07:37:59.098
+Unexpected IOException with stream: 9
+
+# Created at 2022-06-13T07:37:59.099
+Unexpected IOException with stream: .
+
+# Created at 2022-06-13T07:37:59.100
+Unexpected IOException with stream: 0
+
+# Created at 2022-06-13T07:37:59.101
+Unexpected IOException with stream: 8
+
+# Created at 2022-06-13T07:37:59.102
+Unexpected IOException with stream: 2
+
+# Created at 2022-06-13T07:37:59.104
+Unexpected IOException with stream: ]
+
+# Created at 2022-06-13T07:37:59.110
+Unexpected IOException with stream: [
+
+# Created at 2022-06-13T07:37:59.112
+Unexpected IOException with stream: S
+
+# Created at 2022-06-13T07:37:59.113
+Unexpected IOException with stream: E
+
+# Created at 2022-06-13T07:37:59.114
+Unexpected IOException with stream: V
+
+# Created at 2022-06-13T07:37:59.115
+Unexpected IOException with stream: E
+
+# Created at 2022-06-13T07:37:59.115
+Unexpected IOException with stream: R
+
+# Created at 2022-06-13T07:37:59.116
+Unexpected IOException with stream: E
+
+# Created at 2022-06-13T07:37:59.117
+Unexpected IOException with stream: ]
+
+# Created at 2022-06-13T07:37:59.118
+Unexpected IOException with stream: :
+
+# Created at 2022-06-13T07:37:59.118
+Unexpected IOException with stream:  
+
+# Created at 2022-06-13T07:37:59.120
+Unexpected IOException with stream: U
+
+# Created at 2022-06-13T07:37:59.122
+Unexpected IOException with stream: n
+
+# Created at 2022-06-13T07:37:59.125
+Unexpected IOException with stream: a
+
+# Created at 2022-06-13T07:37:59.126
+Unexpected IOException with stream: b
+
+# Created at 2022-06-13T07:37:59.127
+Unexpected IOException with stream: l
+
+# Created at 2022-06-13T07:37:59.127
+Unexpected IOException with stream: e
+
+# Created at 2022-06-13T07:37:59.128
+Unexpected IOException with stream:  
+
+# Created at 2022-06-13T07:37:59.129
+Unexpected IOException with stream: t
+
+# Created at 2022-06-13T07:37:59.130
+Unexpected IOException with stream: o
+
+# Created at 2022-06-13T07:37:59.130
+Unexpected IOException with stream:  
+
+# Created at 2022-06-13T07:37:59.132
+Unexpected IOException with stream: r
+
+# Created at 2022-06-13T07:37:59.132
+Unexpected IOException with stream: e
+
+# Created at 2022-06-13T07:37:59.133
+Unexpected IOException with stream: c
+
+# Created at 2022-06-13T07:37:59.134
+Unexpected IOException with stream: e
+
+# Created at 2022-06-13T07:37:59.138
+Unexpected IOException with stream: i
+
+# Created at 2022-06-13T07:37:59.140
+Unexpected IOException with stream: v
+
+# Created at 2022-06-13T07:37:59.141
+Unexpected IOException with stream: e
+
+# Created at 2022-06-13T07:37:59.142
+Unexpected IOException with stream:  
+
+# Created at 2022-06-13T07:37:59.143
+Unexpected IOException with stream: m
+
+# Created at 2022-06-13T07:37:59.144
+Unexpected IOException with stream: e
+
+# Created at 2022-06-13T07:37:59.144
+Unexpected IOException with stream: s
+
+# Created at 2022-06-13T07:37:59.145
+Unexpected IOException with stream: s
+
+# Created at 2022-06-13T07:37:59.146
+Unexpected IOException with stream: a
+
+# Created at 2022-06-13T07:37:59.147
+Unexpected IOException with stream: g
+
+# Created at 2022-06-13T07:37:59.147
+Unexpected IOException with stream: e
+
+# Created at 2022-06-13T07:37:59.148
+Unexpected IOException with stream:  
+
+# Created at 2022-06-13T07:37:59.148
+Unexpected IOException with stream: f
+
+# Created at 2022-06-13T07:37:59.149
+Unexpected IOException with stream: r
+
+# Created at 2022-06-13T07:37:59.150
+Unexpected IOException with stream: o
+
+# Created at 2022-06-13T07:37:59.151
+Unexpected IOException with stream: m
+
+# Created at 2022-06-13T07:37:59.154
+Unexpected IOException with stream:  
+
+# Created at 2022-06-13T07:37:59.156
+Unexpected IOException with stream: r
+
+# Created at 2022-06-13T07:37:59.158
+Unexpected IOException with stream: e
+
+# Created at 2022-06-13T07:37:59.159
+Unexpected IOException with stream: n
+
+# Created at 2022-06-13T07:37:59.159
+Unexpected IOException with stream: d
+
+# Created at 2022-06-13T07:37:59.164
+Unexpected IOException with stream: e
+
+# Created at 2022-06-13T07:37:59.164
+Unexpected IOException with stream: r
+
+# Created at 2022-06-13T07:37:59.165
+Unexpected IOException with stream: e
+
+# Created at 2022-06-13T07:37:59.166
+Unexpected IOException with stream: r
+
+# Created at 2022-06-13T07:37:59.167
+Unexpected IOException with stream: 
+
+# Created at 2022-06-13T07:37:59.168
+Unexpected IOException with stream: 
+
+
+# Created at 2022-06-13T07:37:59.261
+Unexpected IOException: 8,1,Factory.ParallelTests,launchBrowser(Factory.ParallelTests),null,unknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [87abf9582eff7b51bbc3d5cf11233520\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63924}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63924/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87abf9582eff7b51bbc3d5cf11233520,null,unknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [87abf9582eff7b51bbc3d5cf11233520\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63924}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63924/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87abf9582eff7b51bbc3d5cf11233520,ParallelTests.launchBrowser:19 \00BB WebDriver unknown error: cannot determine loa...,org.openqa.selenium.WebDriverException: \000Aunknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [87abf9582eff7b51bbc3d5cf11233520\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63924}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63924/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87abf9582eff7b51bbc3d5cf11233520\000A\0009at Factory.ParallelTests.launchBrowser(ParallelTests.java:19)\000A
+
+
+# Created at 2022-06-13T07:37:59.262
+Unexpected IOException: 9,1,Factory.ParallelTests,first(Factory.ParallelTests),null,unknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [87abf9582eff7b51bbc3d5cf11233520\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63924}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63924/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87abf9582eff7b51bbc3d5cf11233520,null
+
+
+# Created at 2022-06-13T07:37:59.264
+Unexpected IOException: 9,1,Factory.ParallelTests,quit(Factory.ParallelTests),null,null,null
+
+
+# Created at 2022-06-13T07:38:00.620
+Unexpected IOException: 9,1,Factory.ParallelTests,first(Factory.ParallelTests),null,unknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [87abf9582eff7b51bbc3d5cf11233520\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63924}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63924/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87abf9582eff7b51bbc3d5cf11233520,null
+
+
+# Created at 2022-06-13T07:38:00.621
+Unexpected IOException: 9,1,Factory.ParallelTests,quit(Factory.ParallelTests),null,null,null
+
+
+# Created at 2022-06-13T07:38:01.893
+Unexpected IOException: 9,1,Factory.ParallelTests,second(Factory.ParallelTests),null,unknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [87abf9582eff7b51bbc3d5cf11233520\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63924}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63924/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87abf9582eff7b51bbc3d5cf11233520,null
+
+
+# Created at 2022-06-13T07:38:01.894
+Unexpected IOException: 9,1,Factory.ParallelTests,quit(Factory.ParallelTests),null,null,null
+
+
+# Created at 2022-06-13T07:38:04.279
+Unexpected IOException: 9,1,Factory.ParallelTests,first(Factory.ParallelTests),null,unknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [87abf9582eff7b51bbc3d5cf11233520\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63924}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63924/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87abf9582eff7b51bbc3d5cf11233520,null
+
+
+# Created at 2022-06-13T07:38:04.281
+Unexpected IOException: 9,1,Factory.ParallelTests,quit(Factory.ParallelTests),null,null,null
+
+
+# Created at 2022-06-13T07:38:04.312
+Unexpected IOException: 9,1,Factory.ParallelTests,third(Factory.ParallelTests),null,unknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [87abf9582eff7b51bbc3d5cf11233520\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63924}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63924/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87abf9582eff7b51bbc3d5cf11233520,null
+
+
+# Created at 2022-06-13T07:38:04.341
+Unexpected IOException: 9,1,Factory.ParallelTests,quit(Factory.ParallelTests),null,null,null
+
+
+# Created at 2022-06-13T07:38:04.350
+Unexpected IOException: 8,1,Factory.ParallelTests,launchBrowser(Factory.ParallelTests),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [6311f28e2887f97cc36b096b85ebc279\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63919}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63919/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 6311f28e2887f97cc36b096b85ebc279,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [6311f28e2887f97cc36b096b85ebc279\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63919}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63919/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 6311f28e2887f97cc36b096b85ebc279,ParallelTests.launchBrowser:19 \00BB NoSuchWindow no such window: target window al...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [6311f28e2887f97cc36b096b85ebc279\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63919}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63919/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 6311f28e2887f97cc36b096b85ebc279\000A\0009at Factory.ParallelTests.launchBrowser(ParallelTests.java:19)\000A
+
+
+# Created at 2022-06-13T07:38:04.351
+Unexpected IOException: 9,1,Factory.ParallelTests,first(Factory.ParallelTests),null,unknown error: cannot determine loading status\000Afrom disconnected: not connected to DevTools\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '4.2.0'\002C revision: '86eb611648'\000ASystem info: host: 'DESKTOP-5OULTSJ'\002C ip: '192.168.0.188'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '16.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [87abf9582eff7b51bbc3d5cf11233520\002C get {url=https://www.makemytrip.com}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4...\002C userDataDir: C:\005CUsers\005CSnehana\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:63924}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:63924/devtoo...\002C se:cdpVersion: 102.0.5005.63\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87abf9582eff7b51bbc3d5cf11233520,null
+
+
+# Created at 2022-06-13T07:38:04.351
+Unexpected IOException: 9,1,Factory.ParallelTests,quit(Factory.ParallelTests),null,null,null
+
+
+# Created at 2022-06-13T07:38:04.854
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

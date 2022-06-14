@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite" parallel="tests">
+
+<listeners>
+		<listener class-name="TestNGListeners.TestListener" />
+</listeners>
+
+<parameter name="environment" value="production"></parameter>
+	<test name="Test Basics 2">
+		<classes>
+			<class name="Factory.Test2" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="methods" name="Failed suite [Practice Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="environment" value="production"/>
+  <test thread-count="3" parallel="methods" name="Test Basics 2(failed)">
+    <classes>
+      <class name="Factory.ParallelTests">
+        <methods>
+          <include name="first"/>
+          <include name="quit"/>
+          <include name="third"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- Factory.ParallelTests -->
+    </classes>
+  </test> <!-- Test Basics 2(failed) -->
+</suite> <!-- Failed suite [Practice Suite] -->

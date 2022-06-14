@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite" parallel="methods" thread-count="3">
+
+<listeners>
+		<listener class-name="TestNGListeners.TestListener" />
+</listeners>
+
+	<parameter name="environment" value="production"></parameter>
+	<test name="Test Basics 2">
+
+		<classes>
+			<class name="Factory.ParallelTests">
+				<methods>
+					<include name="first" />
+					<include name="second" />
+					<include name="third" />
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
